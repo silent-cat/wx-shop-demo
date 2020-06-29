@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "c-tabs": "/components/tabs/index",
+    "c-up-img": "/components/up-img/index"
+  },
+  "navigationBarTitleText": "意见反馈"
+}

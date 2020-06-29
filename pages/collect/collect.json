@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+        "c-tabs": "../components/tabs/index"
+  },
+  "navigationBarTitleText": "收藏"
+}

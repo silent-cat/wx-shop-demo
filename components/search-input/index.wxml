@@ -1,0 +1,6 @@
+<view class="search_input">
+  <!-- 实现跳转 url -->
+  <navigator url="/pages/search/search" open-type="navigate">
+    搜索
+  </navigator>
+</view>

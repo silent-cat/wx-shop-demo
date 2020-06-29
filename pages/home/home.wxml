@@ -1,0 +1,43 @@
+<!--pages/home/home.wxml-->
+<view class="home" hover-class="none" hover-stop-propagation="false">
+    <!-- 搜索框 -->
+    <c-search-input />
+    <!-- 轮播图 -->
+    <!-- swiper的默认height为150px,image标签存在默认的高度和宽度-->
+    <view class="home_swiper">
+        <swiper autoplay indicatorDots circular>
+            <block wx:for="{{swiperList}}" wx:key="goods_id">
+                <swiper-item>
+                    <navigator class="" target=""  hover-class="navigator-hover"
+                        open-type="navigate">
+                        <!-- 设置image的mode为widthFix保持原图宽高比不变自适应变化 -->
+                        <image class="swiper-img" src="{{item.image_src}}" mode="widthFix"></image>
+                    </navigator>
+                </swiper-item>
+            </block>
+        </swiper>
+    </view>
+    <!-- 分类导航 -->
+    <view class="home_cate">
+        <navigator wx:for="{{cateList}}" wx:key="name" url="/pages/category/category" open-type="switchTab">
+            <image src="{{item.image_src}}" mode="widthFix"></image>
+        </navigator>
+    </view>
+    <!-- 楼层 -->
+    <view class="home_floor">
+        <view class="floor_group" wx:for="{{floorList}}" wx:for-item="item1" wx:for-index="index1" wx:key="floor_title">
+            <!-- 标题 -->
+            <view class="floor_title">
+                <image class="" src="{{item1.floor_title.image_src}}" mode="widthFix">
+                </image>
+            </view>
+            <!-- 楼层列表 -->
+            <view class="floor_list">
+                <navigator wx:for="{{item1.product_list}}" wx:for-item="item2" wx:for-index="index2" wx:key="name">
+                    <image src="{{item2.image_src}}" mode="{{index2===0?'widthFix':'scaleToFill'}}">
+                    </image>
+                </navigator>
+            </view>
+        </view>
+    </view>
+</view>

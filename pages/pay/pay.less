@@ -1,0 +1,108 @@
+/* pages/pay/pay.wxss */
+page {
+  padding-bottom: 90rpx;
+}
+.receive_address_row {
+  .user_info_row {
+    display: flex;
+    padding: 20rpx;
+    .user_info {
+      flex: 5;
+    }
+    .user_phone {
+      flex: 3;
+      text-align: right;
+    }
+  }
+}
+.cart_content {
+  .cart_title {
+    padding: 20rpx;
+    font-size: 36rpx;
+    color: var(--themeColor);
+    border-top: 1rpx solid currentColor;
+    border-bottom: 1rpx solid currentColor;
+  }
+
+  .cart_main {
+    .cart_item {
+      display: flex;
+      padding: 10rpx;
+      border-bottom: 1rpx solid #ccc;
+    }
+
+    .cart_img_warp {
+      flex: 2;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      image {
+        width: 80%;
+      }
+    }
+
+    .cart_info_warp {
+      flex: 4;
+      display: flex;
+      justify-content: space-around;
+      flex-direction: column;
+      .goods_name {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        overflow: hidden;
+      }
+
+      .goods_price_warp {
+        display: flex;
+        justify-content: space-between;
+        .goods_price {
+          font-size: 34rpx;
+          color: var(--themeColor);
+        }
+
+        .cart_num_tool {
+          display: flex;
+          .goods_num {
+            width: 55rpx;
+            height: 55rpx;
+            text-align: center;
+            line-height: 55rpx;
+          }
+        }
+      }
+    }
+  }
+}
+.footer-tool {
+  display: flex;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 90rpx;
+  width: 100%;
+  border-top: 1rpx solid #ccc;
+
+  .total_price_warp {
+    flex: 5;
+    text-align: right;
+    padding-right: 10rpx;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    .total_price {
+      text.total_price_text {
+        color: var(--themeColor);
+        font-size: 32rpx;
+      }
+    }
+  }
+  .order_pay_warp {
+    flex: 3;
+    background-color: var(--themeColor);
+    color: #fff;
+    text-align: center;
+    line-height: 90rpx;
+    font-size: 36rpx;
+  }
+}

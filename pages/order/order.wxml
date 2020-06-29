@@ -1,0 +1,4 @@
+<!--pages/order/order.wxml-->
+<c-tabs tabs="{{tabs}}" bind:tabsItemChange="handleTabsItemChange">
+    由于无法支付成功，所以无任何订单产生
+</c-tabs>

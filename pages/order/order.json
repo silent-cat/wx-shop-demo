@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "c-tabs": "/components/tabs/index"
+  },
+  "navigationBarTitleText": "订单"
+}
