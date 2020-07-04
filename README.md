@@ -1,1 +1,1 @@
-# wx-shop-demo
+# 一款商城小程序demo学习
