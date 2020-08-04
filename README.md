@@ -8,9 +8,9 @@
 ## 我的
 [![aBU4xO.jpg](https://s1.ax1x.com/2020/08/04/aBU4xO.jpg)](https://imgchr.com/i/aBU4xO)
 ## 商品列表
-[![aBBq81.jpg](https://s1.ax1x.com/2020/08/04/aBBq81.jpg)](https://imgchr.com/i/aBBq81)
-## 商品详情
 [![aBBOv6.jpg](https://s1.ax1x.com/2020/08/04/aBBOv6.jpg)](https://imgchr.com/i/aBBOv6)
+## 商品详情
+[![aBrkFJ.jpg](https://s1.ax1x.com/2020/08/04/aBrkFJ.jpg)](https://imgchr.com/i/aBrkFJ)
 ## 收藏
 [![aBBLgx.jpg](https://s1.ax1x.com/2020/08/04/aBBLgx.jpg)](https://imgchr.com/i/aBBLgx)
 ## 意见反馈
