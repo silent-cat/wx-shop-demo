@@ -1,5 +1,5 @@
 # 一款商城小程序demo学习
-## 首页                                                                                   ## 分类
+## 首页                                                                                   分类
 [![aBU94x.jpg](https://s1.ax1x.com/2020/08/04/aBU94x.jpg)](https://imgchr.com/i/aBU94x)   [![aBUBxU.jpg](https://s1.ax1x.com/2020/08/04/aBUBxU.jpg)](https://imgchr.com/i/aBUBxU)
 
 ## 购物车
