@@ -1,4 +1,4 @@
-# 一款商城小程序demo学习
+# 一款商城微信小程序
 ## 首页                                                                              
 [![aBU94x.jpg](https://s1.ax1x.com/2020/08/04/aBU94x.jpg)](https://imgchr.com/i/aBU94x)   
 ## 分类
