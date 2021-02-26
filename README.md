@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# wx-shop-demo
+# 仿微信商城
 
 ## 目录结构
 
@@ -32,7 +31,7 @@
 |   授权页面   |     auth     |
 |   结算页面   |     pay      |
 
-# 一款商城微信小程序
+## 页面展示
 ## 首页                                                                              
 [![aBU94x.jpg](https://s1.ax1x.com/2020/08/04/aBU94x.jpg)](https://imgchr.com/i/aBU94x)   
 ## 分类
