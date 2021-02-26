@@ -1,6 +1,6 @@
 # 仿微信商城
 
-## 目录结构
+## 1.目录结构
 
 |   目录名   |       作用       |
 | :--------: | :--------------: |
@@ -31,20 +31,20 @@
 |   授权页面   |     auth     |
 |   结算页面   |     pay      |
 
-## 页面展示
-## 首页                                                                              
+## 2.页面展示
+### 首页                                                                              
 [![aBU94x.jpg](https://s1.ax1x.com/2020/08/04/aBU94x.jpg)](https://imgchr.com/i/aBU94x)   
-## 分类
+### 分类
 [![aBUBxU.jpg](https://s1.ax1x.com/2020/08/04/aBUBxU.jpg)](https://imgchr.com/i/aBUBxU)
-## 购物车                                                                                 
+### 购物车                                                                                 
 [![aBUrMF.jpg](https://s1.ax1x.com/2020/08/04/aBUrMF.jpg)](https://imgchr.com/i/aBUrMF)     
-## 我的
+### 个人中心
 [![aBU4xO.jpg](https://s1.ax1x.com/2020/08/04/aBU4xO.jpg)](https://imgchr.com/i/aBU4xO)
-## 商品列表
+### 商品列表
 [![aBBOv6.jpg](https://s1.ax1x.com/2020/08/04/aBBOv6.jpg)](https://imgchr.com/i/aBBOv6)
-## 商品详情
+### 商品详情
 [![aBrkFJ.jpg](https://s1.ax1x.com/2020/08/04/aBrkFJ.jpg)](https://imgchr.com/i/aBrkFJ)
-## 收藏
+### 收藏
 [![aBBLgx.jpg](https://s1.ax1x.com/2020/08/04/aBBLgx.jpg)](https://imgchr.com/i/aBBLgx)
-## 意见反馈
+### 意见反馈
 [![aBBbCR.jpg](https://s1.ax1x.com/2020/08/04/aBBbCR.jpg)](https://imgchr.com/i/aBBbCR)
